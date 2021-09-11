@@ -1,0 +1,12 @@
+{   "network": {
+        "chain_id": "250",
+        "rpc": "https://rpc.ftm.tools/",
+        "gem_address": "0x342EbF0A5ceC4404CcFF73a40f9c30288Fc72611"
+    },
+    "ding": true,
+    "gem_type": 0,
+    "address": "0x4150634E93e85bEc7E7cDbf607329d2d304E2768",
+    "claim":{ 	
+    "private_key": "8a7fb8927b4eb6c74120ad2576b4531954d1fd54ae30600cd0c31b2468a5431e"
+}
+}
